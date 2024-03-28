@@ -1,0 +1,1 @@
+Through codealpha i have successfully completed Second Task.The task was to create a dashboard that aggrergates content from various social media platforms.all the information accessible in one place 
